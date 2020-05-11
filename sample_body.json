@@ -1,0 +1,19 @@
+{
+    "kind": "storage#object",
+    "id": "media-transcode-ingest-video/nature_video_360p.mp4/1589209292656677",
+    "selfLink": "https://www.googleapis.com/storage/v1/b/media-transcode-ingest-video/o/nature_video_360p.mp4",
+    "name": "nature_video_360p.mp4",
+    "bucket": "media-transcode-ingest-video",
+    "generation": "1589209292656677",
+    "metageneration": "1",
+    "contentType": "video/mp4",
+    "timeCreated": "2020-05-11T15:01:32.656Z",
+    "updated": "2020-05-11T15:01:32.656Z",
+    "storageClass": "STANDARD",
+    "timeStorageClassUpdated": "2020-05-11T15:01:32.656Z",
+    "size": "1703379",
+    "md5Hash": "l5NXoKBrmnhEQ38oiFGqag==",
+    "mediaLink": "https://www.googleapis.com/download/storage/v1/b/media-transcode-ingest-video/o/nature_video_360p.mp4?generation=1589209292656677&alt=media",
+    "crc32c": "qsRn3w==",
+    "etag": "CKWg8/qJrOkCEAE="
+  }
